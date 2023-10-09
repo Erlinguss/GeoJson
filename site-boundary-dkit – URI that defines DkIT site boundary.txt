@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.399982452392578, 53.98725540224501],
+            [-6.3959454, 53.9842796],
+            [-6.393356800079346, 53.98504255686473],
+            [-6.396789789199829, 53.98758187961041],
+            [-6.399982452392578, 53.98725540224501]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DkIT Site Boundary",
+        "description": "Geographical boundary of Dundalk Institute of Technology (DkIT).",
+        "area": "25000 square meters",
+        "perimeter": "1000 meters"
+      }
+    }
+  ]
+}

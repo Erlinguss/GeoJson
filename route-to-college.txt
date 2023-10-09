@@ -1,0 +1,40 @@
+"type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.986992, 6.397677]
+      },
+      "properties": {
+        "name": "Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.981815, -6.392078]
+
+      },
+      "properties": {
+        "name": "College"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [53.3416216, -6.2583461],  
+          [53.9842796, -6.3959454]  
+        ]
+      },
+      "properties": {
+        "name": "Route from Home to College",
+        "distance": 1.1,  
+        "time": "15 minutes"  
+      }
+    }
+  ]
+}
